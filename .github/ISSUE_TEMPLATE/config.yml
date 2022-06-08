@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: File a Mu bug or feature request
+    url: https://github.com/mu-editor/mu/issues/
+    about: The Mu bug tracker and feature requests are located in a different repository.
